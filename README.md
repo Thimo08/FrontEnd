@@ -7,20 +7,20 @@
 ## A solução apresentada:
 - O EvFinder resolve o problema de divulgação de eventos e facilita a compra de ingressos em uma única plataforma. Ele oferece aos organizadores de eventos um canal para atingir um público amplo e permite aos usuários encontrar eventos que sejam do seu interesse de maneira fácil, evitando a necessidade de navegar por várias plataformas.
 ## Funcionalidade
-- O menu oferece navegação para "Quem somos" e "Contato", além de uma provável aba suspensa para categorias de eventos (Festas e Shows, Arte, etc.).
-- Há um carrossel com imagens destacando os patrocinadores e eventos que eles propõem.
-- A seção principal exibe "Destaques da semana" com cards mostrando detalhes de eventos como imagem, título, descrição e botão para comprar.
-- O site inclui um campo de busca para que os usuários possam encontrar eventos específicos de forma rápida.
-- Tem a página para o usuário logar ou se cadastrar no site
-- O rodapé apresenta informações de contato, endereço e redes sociais.
+* O menu oferece navegação para "Quem somos" e "Contato", além de uma provável aba suspensa para categorias de eventos (Festas e Shows, Arte, etc.).
+* Há um carrossel com imagens destacando os patrocinadores e eventos que eles propõem.
+* A seção principal exibe "Destaques da semana" com cards mostrando detalhes de eventos como imagem, título, descrição e botão para comprar.
+* O site inclui um campo de busca para que os usuários possam encontrar eventos específicos de forma rápida.
+* Tem a página para o usuário logar ou se cadastrar no site
+* O rodapé apresenta informações de contato, endereço e redes sociais.
 
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- - HTML
- - CSS
- - Imagens
- - Bootstrap Icons
- - Bootstrap
+ * HTML
+ * CSS
+ * Imagens
+ * Bootstrap Icons
+ * Bootstrap
 ## Autores
 - Thimótio Eduardo Araujo Jeronimo - GitHub - thimotio.araujo.senaisp@gmail.com
 ## Licença
