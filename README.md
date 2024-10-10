@@ -21,6 +21,7 @@
  * Imagens
  * Bootstrap Icons
  * Bootstrap
+ * Java Script
 ## Autores
 - Thimótio Eduardo Araujo Jeronimo - GitHub - thimotio.araujo.senaisp@gmail.com
 ## Licença
