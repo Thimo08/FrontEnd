@@ -32,7 +32,4 @@
 - Thimótio Eduardo Araujo Jeronimo - GitHub - thimotio.araujo.senaisp@gmail.com
 ## Licença
 Este projeto está licenciado dob a Licença MIT - Veja o arquivo LICENSE para mais detalhes.
-## Status
-:checkmark: Projeto Finalizado :checkmark:
-
 ![Função 1](assets/Apresentação1.gif)
