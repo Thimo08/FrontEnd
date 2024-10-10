@@ -33,4 +33,6 @@
 ## Licença
 Este projeto está licenciado dob a Licença MIT - Veja o arquivo LICENSE para mais detalhes.
 ## Status
-:check mark: Projeto Finalizado :check mark:
+:checkmark: Projeto Finalizado :checkmark:
+
+![Função 1](assets/Apresentação1.gif)
