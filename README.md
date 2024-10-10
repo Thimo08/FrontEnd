@@ -1,6 +1,6 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # App de evento cultural - EvFinder
-![EvFinder](/assets/favicon/logotipo.png)
+![aa](/assets/img/APP%20EVENTOS%20CULTURAIS.jpg)
 **Descrição:**
 ## Propósito
 - O objetivo do site é divulgar eventos e permitir que os usuários pesquisem, descubram e adquiram ingressos para eventos de entretenimento. Ele serve como uma vitrine para shows de música, festivais, exposições, e eventos gastronômicos, entre outros. A função "Comprar" está presente em cada card de evento, sugerindo que o site também possibilita a compra direta de ingressos.
