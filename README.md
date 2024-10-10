@@ -1,10 +1,18 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # App de evento cultural - EvFinder
 ![aa](/assets/img/APP%20EVENTOS%20CULTURAIS.jpg)
-**Descrição:**
+# Índice
+* [Título](#app-de-evento-cultural---evfinder)
+* [Propósito](#propósito)
+* [Solução apresentada](#solução-apresentada)
+* [Funcionalidade](#funcionalidade)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autores](#autores)
+* [Licença](#licença)
+
 ## Propósito
 - O objetivo do site é divulgar eventos e permitir que os usuários pesquisem, descubram e adquiram ingressos para eventos de entretenimento. Ele serve como uma vitrine para shows de música, festivais, exposições, e eventos gastronômicos, entre outros. A função "Comprar" está presente em cada card de evento, sugerindo que o site também possibilita a compra direta de ingressos.
-## A solução apresentada:
+## Solução apresentada
 - O EvFinder resolve o problema de divulgação de eventos e facilita a compra de ingressos em uma única plataforma. Ele oferece aos organizadores de eventos um canal para atingir um público amplo e permite aos usuários encontrar eventos que sejam do seu interesse de maneira fácil, evitando a necessidade de navegar por várias plataformas.
 ## Funcionalidade
 * O menu oferece navegação para "Quem somos" e "Contato", além de uma provável aba suspensa para categorias de eventos (Festas e Shows, Arte, etc.).
@@ -16,13 +24,13 @@
 
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- * HTML
- * CSS
- * Imagens
- * Bootstrap Icons
- * Bootstrap
- * Java Script
+ * ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ * ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ * ![boots](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ * ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ## Autores
 - Thimótio Eduardo Araujo Jeronimo - GitHub - thimotio.araujo.senaisp@gmail.com
 ## Licença
-None
+Este projeto está licenciado dob a Licença MIT - Veja o arquivo LICENSE para mais detalhes.
+## Status
+:check mark: Projeto Finalizado :check mark:
